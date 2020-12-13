@@ -1,9 +1,3 @@
-"""
-Author: Markus Frohmann
-Matr.Nr.: K12005604
-Exercise 10
-"""
-
 import re
 import os
 import numpy as np

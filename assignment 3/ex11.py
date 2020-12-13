@@ -1,9 +1,3 @@
-"""
-Author: Markus Frohmann
-Matr.Nr.: K12005604
-Exercise 11
-"""
-
 import numpy as np
 # from numba import jit
 

@@ -1,9 +1,3 @@
-"""
-Author: Markus Frohmann
-Matr.Nr.: K12005604
-Exercise 6
-"""
-
 # import necessary modules for file handling
 import os
 import glob

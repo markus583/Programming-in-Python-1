@@ -1,9 +1,3 @@
-"""ex3.py
-Author: Markus Frohmann
-Matr.Nr.: K12005604
-Exercise 3
-"""
-
 #
 # Start of code block that should not be modified.
 #

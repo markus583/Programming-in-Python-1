@@ -1,9 +1,3 @@
-"""
-Author: Markus Frohmann
-Matr.Nr.: K12005604
-Exercise 9
-"""
-
 # import relevant modules
 import os
 import argparse

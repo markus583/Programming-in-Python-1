@@ -1,9 +1,3 @@
-"""
-Author: Markus Frohmann
-Matr.Nr.: K12005604
-Exercise 7
-"""
-
 # import relevant modules
 import re
 

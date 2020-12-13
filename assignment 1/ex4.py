@@ -1,9 +1,3 @@
-"""ex4.py
-Author: Markus Frohmann
-Matr.Nr.: K12005604
-Exercise 4
-"""
-
 #
 # Start of code block that should not be modified.
 #

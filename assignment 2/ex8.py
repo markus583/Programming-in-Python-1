@@ -1,9 +1,3 @@
-"""
-Author: Markus Frohmann
-Matr.Nr.: K12005604
-Exercise 8
-"""
-
 # import functions from previous exercises and relevant modules
 from ex5 import count_bases_and_subsequence
 from ex6 import get_hamsters
